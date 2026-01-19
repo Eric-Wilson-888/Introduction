@@ -11,7 +11,7 @@ It's mainly used for wrting something interesting with AI
 <typing-effect>
   <span style="color📘">
     <front size=4>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=460&lines=It's+OK+to+find+something+interesting)](https://git.io/typing-svg)
+It's OK to find something interesting
     </front>
   </span>
 </typing-effect>
